@@ -47,6 +47,10 @@ li.product {
     font-size: 30px;
 }
 
+.product-image .heart:hover {
+    cursor: pointer;
+}
+
 .product-image .product-details {
     bottom: 30px;
     left: 0;
